@@ -10,11 +10,11 @@ const OnBoardScreen = ({navigation}) => {
       <View style={{height: 400}}>
         <Image
           style={{
-            width: '100%',
+            width: '150%',
             resizeMode: 'contain',
-            top: -150,
+            top: -300,
           }}
-          source={require('../../assets/jenny.jpg')}
+          source={require('../../assets/rr.jpg')}
         />
       </View>
       <View style={style.textContainer}>
